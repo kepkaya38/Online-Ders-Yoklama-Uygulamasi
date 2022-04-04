@@ -1,0 +1,20 @@
+C:\Users\talat\source\repos\chatnumara\chatnumara\bin\Debug\chatnumara.exe.config
+C:\Users\talat\source\repos\chatnumara\chatnumara\bin\Debug\chatnumara.exe
+C:\Users\talat\source\repos\chatnumara\chatnumara\bin\Debug\chatnumara.pdb
+C:\Users\talat\source\repos\chatnumara\chatnumara\obj\Debug\chatnumara.csprojAssemblyReference.cache
+C:\Users\talat\source\repos\chatnumara\chatnumara\obj\Debug\chatnumara.Form1.resources
+C:\Users\talat\source\repos\chatnumara\chatnumara\obj\Debug\chatnumara.Properties.Resources.resources
+C:\Users\talat\source\repos\chatnumara\chatnumara\obj\Debug\chatnumara.csproj.GenerateResource.cache
+C:\Users\talat\source\repos\chatnumara\chatnumara\obj\Debug\chatnumara.csproj.CoreCompileInputs.cache
+C:\Users\talat\source\repos\chatnumara\chatnumara\obj\Debug\chatnumara.exe
+C:\Users\talat\source\repos\chatnumara\chatnumara\obj\Debug\chatnumara.pdb
+G:\Are You Man\proje\c#\chatnumara\chatnumara\bin\Debug\chatnumara.exe.config
+G:\Are You Man\proje\c#\chatnumara\chatnumara\bin\Debug\chatnumara.exe
+G:\Are You Man\proje\c#\chatnumara\chatnumara\bin\Debug\chatnumara.pdb
+G:\Are You Man\proje\c#\chatnumara\chatnumara\obj\Debug\chatnumara.csproj.AssemblyReference.cache
+G:\Are You Man\proje\c#\chatnumara\chatnumara\obj\Debug\chatnumara.Form1.resources
+G:\Are You Man\proje\c#\chatnumara\chatnumara\obj\Debug\chatnumara.Properties.Resources.resources
+G:\Are You Man\proje\c#\chatnumara\chatnumara\obj\Debug\chatnumara.csproj.GenerateResource.cache
+G:\Are You Man\proje\c#\chatnumara\chatnumara\obj\Debug\chatnumara.csproj.CoreCompileInputs.cache
+G:\Are You Man\proje\c#\chatnumara\chatnumara\obj\Debug\chatnumara.exe
+G:\Are You Man\proje\c#\chatnumara\chatnumara\obj\Debug\chatnumara.pdb
